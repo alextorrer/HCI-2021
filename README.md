@@ -6,10 +6,10 @@ Sometimes college students are so committed to the faculty that they don't have 
 This is an already functional project which was developed by another team at the university. We want to help this social program to succeed by focusing our contribution in the Human computer interaction, usability and user experience components of the project.  
 
 ## Team members
-    [Alejandro Torre](https://github.com/alextorrer)
-    Gildardo Maldonado
-    Miguel R. Ávila
-    Jorge Luis Anzures
+ - [Alejandro Torre](https://github.com/alextorrer)
+ - Gildardo Maldonado
+ - Miguel R. Ávila
+ - Jorge Luis Anzures
 
 ## Organization
 We use Notion as a task manager where each task has its own weight value in order to measure the contribution within the team.  
