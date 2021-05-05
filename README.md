@@ -11,7 +11,3 @@ This is an already functional project which was developed by another team at the
  - Miguel R. Ávila
  - Jorge Luis Anzures
 
-## Organization
-We use Notion as a task manager where each task has its own weight value in order to measure the contribution within the team.  
-
-
