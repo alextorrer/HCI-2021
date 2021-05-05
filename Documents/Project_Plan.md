@@ -30,3 +30,4 @@ As this project is already developed, the approach we are taking it's the valida
 ## Team Management
 - We have decided not to create a Calendar for our activities because we have no experience in this type of projects. Therefore, we find very difficult to provide an accurate estimate for the different stages and activities.
 - Overall, the team roles consist on one Team Leader (Alejandro Torre) and three desginers/developers.
+> View [Team Management](https://github.com/alextorrer/HCI-2021/blob/first-delivery/Documents/Team_Management.md)
