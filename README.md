@@ -9,5 +9,5 @@ This is an already functional project which was developed by another team at the
  - [Alejandro Torre](https://github.com/alextorrer)
  - Gildardo Maldonado
  - Miguel R. Ávila
- - Jorge Luis Anzures
+ - [Jorge Luis Anzures](https://github.com/inki189)
 
