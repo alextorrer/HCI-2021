@@ -7,7 +7,7 @@ This is an already functional project which was developed by another team at the
 
 ## Team members
  - [Alejandro Torre](https://github.com/alextorrer)
- - Gildardo Maldonado
- - Miguel R. Ávila
- - Jorge Luis Anzures
+ - [Gildardo Maldonado](https://github.com/GildardoMaldonado)
+ - [Miguel R. Ávila](https://github.com/migueravila)
+ - [Jorge Luis Anzures](https://github.com/inki189)
 
