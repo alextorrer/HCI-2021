@@ -1,5 +1,9 @@
 # Team Log
 
+## 10-05-2021 | Personas
+We've decided to create 3 personas: Student, Sponsor and Staff.
+We won't cover to much on the Student and the Staff but we will try to get a deeper insight of the Sponsor Persona in order to find motivational characteristics.
+
 ## 05-05-2021 | Current progress
 We have defined our project plan and we are taking an UCD approach for this. We took a process from a company and we adapted it for our project.  
 The roles, responsabilities, artifacts, contribution metrics are now established.  
