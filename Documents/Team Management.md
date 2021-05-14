@@ -28,5 +28,6 @@ The activities are going to be managed in a kanban board on a **Notion** Workspa
 ## Individual Contribution
 We are going to use *T-Shirt size* for each activity as a measure in terms of complexity and effort.  
 The size of each activity will be estimated by the whole team.  
-This metric will be mapped as {S = 1; M = 2; L = 3; XL = 4}.  
-We decided to use this metric because it's simpler to make the estimation.  
+This metric will be mapped as {XS = 1; S = 2; M = 3; L = 5; XL = 8}.  
+We decided to use this metric because it's simpler to make the estimation.
+> [Current individual contribution report](https://github.com/alextorrer/HCI-2021/blob/first-delivery/Documents/Individual%20Contribution%20Report.md)
