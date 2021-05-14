@@ -11,23 +11,22 @@ One principle of the UCD is the iterative feedback collection from the user, hen
 ## Plan Overview
 As this project is already developed, the approach we are taking it's the validation of the current user experience, perform analysis to collect user feedback and provide enhancements based on the data collected.  
 
-1. Research
+1. Research (May 10 - May 21)
     - Personas
         > We will define our personas and scenarios based on the goals of the development team.
     - Task Analysis
         > We are planning to consider people (not necessarily users due to logistics constraints) matching our personas as the subjects for this activity.
     - System Usability Scale
         > Have the bigger picture before we start with the following phases.
-    1.4. Non Funcional Requirements
-2. Ideation
+2. Ideation (May 24 - June 11)
+    - Requirements selection
     - User Journey
     - Wireframes
-    - Parallel Design
-3. Execution
+3. Execution (June 14 - July 2)
     - Prototypes
     - System Usability Scale
 
 ## Team Management
 - We have decided not to create a Calendar for our activities because we have no experience in this type of projects. Therefore, we find very difficult to provide an accurate estimate for the different stages and activities.
 - Overall, the team roles consist on one Team Leader (Alejandro Torre) and three desginers/developers.
-> View [Team Management](https://github.com/alextorrer/HCI-2021/blob/first-delivery/Documents/Team_Management.md)
+> View [Team Management](https://github.com/alextorrer/HCI-2021/blob/first-delivery/Documents/Team%20Management.md)
