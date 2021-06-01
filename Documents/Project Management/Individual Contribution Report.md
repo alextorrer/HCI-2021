@@ -9,10 +9,10 @@
   - *L* = 5 pt.
   - *XL* = 8 pt.
 
-### Current contribution | *Last update: 13/05/2021*
-**Total Points: 20** 
+### Current contribution | *Last update: 01/06/2021*
+**Total Points: 49** 
   
-**Jorge Anzures:** *3 | 15%*  
-**Gildardo Maldonado:** *4 | 20%*    
-**Miguel R. Ávila:** *4 | 20%*    
-**Alejandro Torre:** *9 | 45%*  
+**Jorge Anzures:** *9 | 18.4%*  
+**Gildardo Maldonado:** *12 | 24.5%*    
+**Miguel R. Ávila:** *11 | 22.5%*    
+**Alejandro Torre:** *17 | 34.6%*  
