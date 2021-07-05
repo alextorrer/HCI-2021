@@ -13,4 +13,4 @@ This is an already functional project which was developed by another team at the
 
 ## Links
 - [Miro Board](https://miro.com/welcomeonboard/WklsOWw5dE1KNG9CWFZRcnlIenZkUXNkUXp2SGpuNm5yTzFhYTFaUWNrWk1pa1hmaHI0UU1kSDdOZE1tS0xlS3wzMDc0NDU3MzUwMDk3NzQ1NzA5)
-- [Figma Wireframes](https://www.figma.com/file/MFtFVEFgPEhaHrV7OxW5ot/Donor?node-id=2%3A2)
+- [Figma Prototypes](https://www.figma.com/file/t3p5iTRwjqogoDwGNGL4w3/Meal-Scholarship-Platform)
