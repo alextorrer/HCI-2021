@@ -12,7 +12,7 @@
 ### Current contribution | *Last update: 05/07/2021*
 **Total Points: 103** 
   
-**Jorge Anzures:** *9 | 9%*  
+**Jorge Anzures:** *9 | 8.7%*  
 **Gildardo Maldonado:** *34 | 33.1%*    
-**Miguel R. Ávila:** *21 | 20%*    
+**Miguel R. Ávila:** *21 | 20.3%*    
 **Alejandro Torre:** *39 | 37.9%*  
