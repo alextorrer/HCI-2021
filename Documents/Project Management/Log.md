@@ -1,5 +1,25 @@
 # Team Log
 
+## 05-07-2021 | Completion for final delivery
+We completed everything for the final delivery, poster, article, usability tests, video & presentation. We're now just waiting for the final reunion with the teacher 
+to show our video presentation.
+
+## 03-07-2021 | Usability tests
+We completed the usability tests with the users and gathered the information of the tests. They also answered the surveys.
+
+## 28-06-2021 | Reunion on final delivery
+We had a reunion with the teacher to talk about details about the final presentation and show some of our advance with the project.
+
+## 24-06-2021 | Presentation for functionality attributes
+Presentation made with the following information: Functional requirements. functionality attributes, how to measure that attribute and test scenario.
+
+## 18-06-2021 | Completed the tasks for the second delivery
+Including design guidelines, requirements defined, prototypes, usability tests and team management.
+
+## 16-06-2021 | Defined the requirements
+We finally defined our requirements, both functional and not functional, the functional being only one based on what we think is the main user and axis of the
+project, the donor.
+
 ## 15-06-2021 | Reunion on second delivery
 We had a meeting to decide what we were going to present for the second delivery and also what we were missing so we could work on it. The work was divided between 
 the members of the team
